@@ -13,8 +13,8 @@ Berikut ini adalah Koleksi yang dimiliki:
 6. [artikel1.pdf](ebook/artikel1.pdf) — Anita, dkk (2022)
 7. [artikel2.pdf](ebook/artikel2.pdf) — Felia, dkk (2021)
 8. [buku1.pdf](ebook/buku1.pdf) — Dr. Fitri (2017)
-9. [Jurnal3.pdf](ebook/Jurnal3.pdf) — Salman, dkk (2020)
-10. [Jurnal5.pdf](ebook/Jurnal5.pdf) — Maria, dkk (2025)
+9. [jurnal3.pdf](ebook/jurnal3.pdf) — Salman, dkk (2020)
+10. [jurnal5.pdf](ebook/jurnal5.pdf) — Maria, dkk (2025)
 
 — — —
 
