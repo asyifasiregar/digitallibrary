@@ -18,5 +18,5 @@ Berikut ini adalah Koleksi yang dimiliki:
 
 — — —
 
-[halaman1.html](webti/halaman1.html) - syifa (2024)
+[halaman1](webti/halaman1.html) - syifa (204)
 *Powered by GitHub Pages*
